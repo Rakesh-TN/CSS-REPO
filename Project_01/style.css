@@ -1,0 +1,31 @@
+body{
+    color:antiquewhite;
+}
+form{
+    text-align: center;
+    color: darkred;
+}
+.login{
+    background-color: brown;
+    color: white;
+}  
+#login_head{
+    color:crimson;
+    text-align: center;
+    font-size: xx-large;
+} 
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.479);
+    color: gold;
+}
+#import_point{
+    background-color: rgba(255, 255, 255, 0.411);
+    color: black;
+}
+#navgation{
+    text-align:center;
+}
+#example_selector{
+    background-color: rgba(0, 0, 0, 0.904);
+}
