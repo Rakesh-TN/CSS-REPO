@@ -10,9 +10,10 @@ form{
     color: white;
 }  
 #login_head{
-    color:crimson;
+    color: white;
     text-align: center;
     font-size: xx-large;
+    background-color: fuchsia;
 } 
 h1{
     text-align: center;
