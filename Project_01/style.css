@@ -4,16 +4,15 @@ body{
 form{
     text-align: center;
     color: darkred;
-}
+} 
 .login{
-    background-color: brown;
+    background-color: darkorange;
     color: white;
 }  
 #login_head{
     color: white;
     text-align: center;
-    font-size: xx-large;
-    background-color: fuchsia;
+    font-size: x-large;
 } 
 h1{
     text-align: center;
