@@ -6,6 +6,7 @@ body{
 fieldset{
     text-align: center;
     color: darkred;
+    max-width: 50%;
 } 
 .login{
     background-color: darkorange;
