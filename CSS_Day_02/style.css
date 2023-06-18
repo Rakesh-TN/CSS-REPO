@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+    color:antiquewhite;
+    font-family: 'Comfortaa', cursive;
+}
+form{
+    text-align: center;
+    color: darkred;
+} 
+.login{
+    background-color: darkorange;
+    color: white;
+}  
+#login_head{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+} 
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.479);
+    color: gold;
+}
+#import_point{
+    background-color: rgba(255, 255, 255, 0.411);
+    color: black;
+}
+#navgation{
+    text-align:center;
+}
+#example_selector{
+    background-color: rgba(0, 0, 0, 0.904);
+}
