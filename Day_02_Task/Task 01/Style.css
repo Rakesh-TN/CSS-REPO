@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+div{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    margin: 30px;
+}
+
+i{
+    margin-top: 40px;
+    margin-left: 70px;
+    font-size: 100px;
+}
+hr{
+    width: 60px;
+}
+
