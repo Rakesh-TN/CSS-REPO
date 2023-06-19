@@ -20,6 +20,8 @@ i{
     font-size: 100px;
 }
 hr{
+    height: 3px;
     width: 60px;
+    background-color: black;
 }
 

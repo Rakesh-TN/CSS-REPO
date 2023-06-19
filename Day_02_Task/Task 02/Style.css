@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(90deg, rgb(135, 11, 169), rgb(40, 255, 147));
+}
+div{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    margin: 50px;
+    text-align: center;
+}
+i{
+    margin-top: 30px;
+    font-size: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+}
+img{
+    margin-top: 20px; ;
+}
+
