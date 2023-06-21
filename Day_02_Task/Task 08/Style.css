@@ -20,10 +20,15 @@ h2{
 input{
     margin-left: 20px;
     height: 20px;
+    width: 240px;
 }
 button{
     margin-left: 10px;
     color: white;
     background-color: red;
-    height: 20px;
+    height: 30px;
+}
+ul{
+    list-style: none;
+    line
 }
