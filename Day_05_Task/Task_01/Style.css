@@ -5,8 +5,9 @@ body{
     font-family: 'Overpass', sans-serif;
 }
 img{
-    height: 185px;
-    width: 290px;
+    height: 240px;
+    width: 320px;
+    margin: 10px;
 }
 div{
     max-width: 75%;
@@ -17,7 +18,11 @@ div{
 #Organic{
     background-color: white;
     color: #55a630;
-    padding: 20px;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    margin: 10px;
 }
 i{
     font-size: 25px;
