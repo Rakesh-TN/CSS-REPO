@@ -1,0 +1,10 @@
+body{
+    background-color: darkslategrey;
+}
+div{
+    background-color: white;
+    max-width: 50%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
