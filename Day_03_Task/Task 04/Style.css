@@ -1,0 +1,20 @@
+body{
+    background-color: darkslategray;
+}
+div{
+    background-color: white;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
+}
+ol{
+    list-style: upper-roman;
+}
+#Background_Skills{
+    list-style: upper-alpha;
+} 
+#list_type{
+    list-style: lower-roman;
+}
