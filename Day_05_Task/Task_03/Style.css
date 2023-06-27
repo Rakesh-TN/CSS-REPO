@@ -163,3 +163,79 @@ hr{
     width: 180px;
     padding-top: 20px;  
 }
+.iphone_Gen5{
+    margin-top: 50px;
+    background-color: white;
+    max-width: 25%;
+    width: 200px;
+    margin-left: 120px;
+    box-shadow: 0px 0px 10px  #2d3142;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
+#phone_Xs{
+    height: 200px;
+    width: 150px;
+    padding-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+.iphone_Gen6{
+    margin-top: 50px;
+    background-color: white;
+    max-width: 25%;
+    width: 200px;
+    margin-left: 75px;
+    box-shadow: 0px 0px 10px  #2d3142;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
+#phone_8{
+    height: 200px;
+    width: 150px;
+    padding-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+.iphone_Gen6{
+    margin-top: 50px;
+    background-color: white;
+    max-width: 25%;
+    width: 200px;
+    margin-left: 75px;
+    box-shadow: 0px 0px 10px  #2d3142;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
+.iphone_Gen7{
+    margin-top: 50px;
+    background-color: white;
+    max-width: 25%;
+    width: 200px;
+    margin-left: 75px;
+    box-shadow: 0px 0px 10px  #2d3142;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
+#phone_11{
+    height: 200px;
+    width: 150px;
+    padding-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+.iphone_Gen8{
+    margin-top: 50px;
+    background-color: white;
+    max-width: 25%;
+    width: 200px;
+    margin-left: 75px;
+    box-shadow: 0px 0px 10px  #2d3142;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
