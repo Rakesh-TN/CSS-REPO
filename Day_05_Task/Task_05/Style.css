@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+    background-color: lightblue;
+    font-family: 'Comfortaa', cursive;
+}
+.card_1{
+    background-color: #FFFDD0;
+    border-radius: 40px;
+    box-shadow: -10px 10px 5px gray;
+    height: 380px;
+    width: 300px;
+    margin-top: 80px;
+    padding: 20px;
+    float: left;
+    margin-left: 80px;
+}
+.card_2{
+    background-color: #FFFDD0;
+    border-radius: 30px;
+    box-shadow: -10px 10px 5px gray;
+    height: 380px;
+    width: 300px;
+    margin-top: 80px;
+    padding: 20px;
+    float: left;
+    margin-left: 80px;
+}
+.card_3{
+    background-color: #FFFDD0;
+    border-radius: 40px;
+    box-shadow: -10px 10px 5px gray;
+    height: 380px;
+    width: 300px;
+    margin-top: 80px;
+    padding: 20px;
+    float: left;
+    margin-left: 80px;
+}
+#rEd{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(to left, red, yellow);
+    position: relative;
+    bottom: 50px;
+}
+#blUe{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(to left, lightblue, violet);
+    position: relative;
+    bottom: 50px;
+}
+#yeLLow{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(to left, green, white);
+    position: relative;
+    bottom: 50px;
+}
+i{
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    font-size: 30px;
+}
+p{
+    position: relative;
+    bottom: 50px;
+    text-align: justify;
+}
