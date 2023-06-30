@@ -26,7 +26,7 @@ div{
     height: 55vh;
     width: 15vw;
     position: relative;
-    top: 29vh;
+    top: 26vh;
     left: 25vw; 
     padding: 10px;
     border-radius: 30px; 
@@ -36,21 +36,24 @@ div{
 .three_Card{
     background-color: white;
     color: black;
-    height: 43.9vh;
-    width: 14.5vw;
+    height: 45.9vh;
+    width: 14.8vw;
     position: relative;
-    top: 40vh;
-    left: 8vw; 
+    top: 35vh;
+    left: 7.9vw; 
     padding: 10px;
     border-radius: 30px; 
     transform: rotate(18deg); 
     
 }
 #bottom_Foot{
-    margin-top: 220px;
-    font-size: 14px;
+    margin-top: 240px;
+    font-size: 13px;
 }
 #bottom_Footer{
-    margin-top: 200px;
-    font-size: 14px;
+    margin-top: 230px;
+    font-size: 13px;
+}
+i{
+    font-size: 18px;
 }
