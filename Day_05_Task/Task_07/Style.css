@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: lightslategrey;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    margin-top: 100px;
+}
+#first_Picture{
+    height: 280px;
+    width: 500px;
+    margin-left: 150px;
+    display: cover; 
+}
+.first_Picture{
+    float: left;
+}
+.first_Contact{
+    max-width: 50%;
+    background-color: white;
+    height: 280px;
+    width: 500px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+}
+#first_Contact{
+    text-align: justify;
+}
+.fa-heart{
+    margin-left: 260px;
+}
+#raTing{
+    font-weight: bolder;
+}
+#second_Picture{
+    margin-top: 30px;
+    height: 180px;
+    width: 240px;
+    position: relative;
+    left: -500px;
+    float: left;
+}
+.second_Contact{
+    margin-top: 30px;
+    background-color: white;
+    height: 180px;
+    width: 200px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    margin-left: -500px;
+}
+#laKe{
+    font-size: 12px;
+}
+#rating_Two{
+    font-weight: bolder;
+    font-size: 8px;
+}
+#second_Contact{
+    text-align: justify;
+    font-size: 10px;
+}
+#third_Contact{
+    text-align: justify;
+    font-size: 10px;
+}
+#third_Picture{
+    margin-top: 30px;
+    height: 180px;
+    width: 250px;
+    position: relative;
+    left: -200px;
+}
+.third_Contact{
+    margin-top: 30px;
+    background-color: white;
+    height: 180px;
+    width: 215px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    position: relative;
+    left: 940px;
+    top: -217px;
+}
+#laKe{
+    font-size: 12px;
+}
+#rating_Two{
+    font-weight: bolder;
+    font-size: 8px;
+}
