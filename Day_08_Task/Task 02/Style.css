@@ -66,6 +66,6 @@ hr{
     position: relative;
     top: -550px;
     left: 180px;
-    transform: rotate3d(0,1,1,50deg);
+    transform: perspective(1500px) rotateY(40deg);
     z-index: 1;
 }
